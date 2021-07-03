@@ -26,7 +26,8 @@ const generatePdf = async (
 
 	const data = await page.pdf(options);
 	await browser.close();
-	return Buffer.from(Object.values(data));
+
+	return Buffer.from(data);
 };
 
 export default generatePdf;
