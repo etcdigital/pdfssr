@@ -1,0 +1,11 @@
+*.log*
+*.tsbuildinfo
+.DS_Store
+.env*
+.eslintcache
+node_modules/
+*.tgz
+dist-*/
+tmp
+dist
+coverage/
