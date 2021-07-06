@@ -1,7 +1,7 @@
 {
 	"name": "pdfssr",
 	"version": "0.1.0",
-	"description": "A simple react form handler",
+	"description": "A converter HTML (with css) to PDF",
 	"author": "Tiago Souza <tiago@etc.digital>",
 	"license": "MIT",
 	"private": false,
